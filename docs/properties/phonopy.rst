@@ -1,11 +1,11 @@
 Phonon calculations with phonopy
 ================================
 
-The `phonopy <http://atztogo.github.io/phonopy/>`_ code can calculate
+The `phonopy <http://phonopy.github.io/phonopy/>`_ code can calculate
 a range of harmonic and quasi-harmonic vibrational properties and from
 version 2.0 onwards supports DFTB+. Information about how to install
 phonopy is `available
-<http://atztogo.github.io/phonopy/install.html>`_, it is also
+<http://phonopy.github.io/phonopy/install.html>`_, it is also
 available on conda-forge::
 
   mamba install -c conda-forge phonopy
